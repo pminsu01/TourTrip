@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "9814608864",
+    "firebase_url": "https://tour-4cb63.firebaseio.com",
+    "project_id": "tour-4cb63",
+    "storage_bucket": "tour-4cb63.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:9814608864:android:4c2f89b1f9445bbf",
+        "android_client_info": {
+          "package_name": "start.june.tour"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "9814608864-hpl81d9r2j3qtnrn1anh04md92d0vlgj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "start.june.tour",
+            "certificate_hash": "6f470354570b9873e89736096af71c7aa3ff45a2"
+          }
+        },
+        {
+          "client_id": "9814608864-9ogesqs6hrkd0e72olrbujaiuva5mmas.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0qa_Nx1ig19xMWF7Hx0ipLCYVjQSDd8Q"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "9814608864-9ogesqs6hrkd0e72olrbujaiuva5mmas.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
