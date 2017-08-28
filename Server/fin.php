@@ -1,7 +1,7 @@
 <?php
-$DB_host ='52.14.166.136';  # DB_URL
-$DB_User ='pminsu2';           # DB user name
-$DB_Password='12';   # DB password
+$DB_host =;  # DB_URL
+$DB_User =;           # DB user name
+$DB_Password=;   # DB password
 $DB_name='starthon';           # DB type
 $TABLE_name = "start";      # DB Table select
 

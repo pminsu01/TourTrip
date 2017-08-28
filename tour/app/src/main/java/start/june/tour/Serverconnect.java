@@ -21,7 +21,7 @@ import java.util.Map;
 
 public class Serverconnect {
 
-    String urlstr = "http://ec2-52-14-166-136.us-east-2.compute.amazonaws.com/android_req.php"; // 정보 조회 할것.
+    String urlstr = ""; // server url 정보 조회 할것.
     String status = "";
     Handler handler;
     String picture_url;

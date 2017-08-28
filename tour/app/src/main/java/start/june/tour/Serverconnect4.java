@@ -18,14 +18,10 @@ import java.net.URL;
 
 class Serverconnect4 {
 
-    String urlstr = "http://ec2-52-14-166-136.us-east-2.compute.amazonaws.com/fin.php"; // 정보 조회 할것.
+    String urlstr = ""; // server url 정보 조회 할것.
     String status = "";
     Handler handler;
     String people_info;
-    //String car_number;
-
-    // String[] car_where;
-    //String[] car_picture_url;
     TextView textview;
 
 
